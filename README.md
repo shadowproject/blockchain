@@ -14,7 +14,7 @@ Anyone bringing up a new node using the reference client.  This is the fastest m
 -----------------------
 Why should I trust you?
 
-The donwload includes a DIGESTS.txt file which includes the sha256sum for the bootstrap file used to create this data file. You can verify this by comparing these values against those from https://github.com/shadowproject/bootstrap OR you may generate your own bootstrap.dat, up to a same height, and verify that the sha256sum matches.  
+The download includes a DIGESTS.txt file which includes the sha256sum for the bootstrap file used to create this data file. You can verify this by comparing these values against those from https://github.com/shadowproject/bootstrap OR you may generate your own bootstrap.dat, up to a same height, and verify that the sha256sum matches.  
 
 -----------------------
 Where can I get more info?
