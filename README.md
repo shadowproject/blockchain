@@ -19,12 +19,12 @@ The download includes a DIGESTS.txt file which includes the sha256sum for the bo
 -----------------------
 Where can I get more info?
 
-Please head over to our DOCS site here : https://doc.shadowproject.io/#download
+Please head over to our document site here : https://doc.shadowproject.io/#download
 
 -----------------------
 Okay, tell me where do I get it?
 
-You can download the files below, but please refer to the DOCS site for installation instructions.
+You can download the files below, but please refer to the document site for installation instructions.
 
 ZIP : https://github.com/ShadowProject/blockchain/releases/download/latest/blockchain.zip
 
