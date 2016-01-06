@@ -7,7 +7,7 @@ It is the verified and indexed database containing Shadow blockchain data, from 
 This is created from the bootstrap.dat from this project : https://github.com/shadowproject/bootstrap
 
 ------------------------
-Who wants bootstrap.zip?
+Who wants blockchain.zip?
 
 Anyone bringing up a new node using the reference client.  This is the fastest method of getting the blockchain data and a fully synchronised client within ten minutes.
 
